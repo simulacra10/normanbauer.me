@@ -8,7 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/simulacra10/",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Keybase": "https://keybase.io/wyeoak",
+      "email": "mailto:gh@normanbauer.me"
     },
   }),
 }
