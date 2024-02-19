@@ -9,4 +9,4 @@ Then In-Q-Tel dropped billions of $USD into Google, Facebook, and other social m
 
 I wan't to explore the possibilities of getting back to what we once had. 
 
-[[MysticBBS]]
+[[Exploring MysticBBS]]

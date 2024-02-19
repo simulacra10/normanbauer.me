@@ -3,7 +3,6 @@ title: Exploring MysticBBS
 draft: true
 tags:
 ---
-
 #  Exploring [MysticBBS:](https://www.mysticbbs.com/) A Nostalgic Dive into BBS Software
 
 ## Introduction
