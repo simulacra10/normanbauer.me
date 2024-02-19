@@ -8,7 +8,7 @@ My book list. This is a work in progress.
 
 ### Wish list
 | Title | Author |
-| ---- | ---- |
+| :---- | :---- |
 | [Evangelical Exodus: Evangelical Seminarians and Their Paths to Rome](https://www.amazon.com/gp/product/1621640426/ref=ox_sc_act_title_4?smid=ATVPDKIKX0DER&psc=1) | Douglas Beaumont |
 | [Man's Search for Meaning](https://www.amazon.com/gp/product/0807014273/ref=ox_sc_act_image_3?smid=ATVPDKIKX0DER&psc=1) | Viktor E. Frankl |
 | [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking](https://www.amazon.com/gp/product/3982438802/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&psc=1) | Sönke Ahrens |
@@ -25,12 +25,12 @@ My book list. This is a work in progress.
 ### In queue
 
 | Title | Author |
-| ---- | ---- |
+| :---- | :---- |
 | [Treasury's War: The Unleashing of a New Era of Financial Warfare](https://www.amazon.com/Treasurys-War-Unleashing-Financial-Warfare/dp/161039464X/ref=sr_1_1?crid=3A7L6IQ75JJY7&dib=eyJ2IjoiMSJ9.08_z9KvQzE1QdUMBQ1XDzKfBUCJpFrU0CjUFESNDfLgPLeaHJc9bYBfEgVJz7gYkDaSxociX9PxCD-Co4yVfNNvskilCC10Vh27VaQQKdFwif-2oNplpTH8KcAzYETyKrDy8vs-jMJrCZU1aMdc4XP-pFuGy_Eruihg-6cDWKNPJTtZp1Hd1hWAOIU9ZSrIncuGUOm3rd8P1BDtvMdm3YCqGRvfVkxoJ9xKY3-4B8aw.hOP5LFt_S6-HsXY9oF86tOQiKniqu45Zb4o-NHnvAd0&dib_tag=se&keywords=treasury+war&qid=1708315027&s=books&sprefix=treausrys+w%2Cstripbooks%2C363&sr=1-1) | Juan Zarate |
 | [The Apostolic Fathers: A New Translation (Lexham Classics)](https://www.amazon.com/gp/product/1683590643/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) |  Rick Brannan |
 |  |  |
 
 ### Done
 | Title | Author |
-| ---- | ---- |
+| :---- | :---- |
 | [American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road](https://www.amazon.com/gp/product/0143129023/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1) |  Nick Bilton  |
