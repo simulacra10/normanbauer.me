@@ -2,7 +2,5 @@
 title: Welcome to normanbauer.me
 ---
 
-
-### Projects
-Some projects I am working on
-- [[King James Bible]]
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
