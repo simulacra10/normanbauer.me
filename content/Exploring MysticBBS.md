@@ -1,5 +1,5 @@
 ---
-title: "[[Exploring MysticBBS]]"
+title: Exploring MysticBBS
 draft: false
 tags:
 ---
