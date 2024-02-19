@@ -1,0 +1,102 @@
+| Rank | Title | Year | Status |
+| :--- | :--- | :--- | :--- |
+| 1 | Once Upon a Time in the West | (1968) | All quiet on the Western Front. |
+| 2 | The Searchers | (1956) | All quiet on the Western Front. |
+| 3 | Red River | (1948) | All quiet on the Western Front. |
+| 4 | High Noon | (1952) | All quiet on the Western Front. |
+| 5 | Shane | (1953) | All quiet on the Western Front. |
+| 6 | Unforgiven | (1992) | I'm your huckleberry. |
+| 7 | Johnny Guitar | (1954) | All quiet on the Western Front. |
+| 8 | The Wild Bunch | (1969) | All quiet on the Western Front. |
+| 9 | Bad Day at Black Rock | (1955) | All quiet on the Western Front. |
+| 10 | Greed | (1924) | All quiet on the Western Front. |
+| 11 | Stagecoach | (1939) | All quiet on the Western Front. |
+| 12 | McCabe & Mrs. Miller | (1971) | All quiet on the Western Front. |
+| 13 | No Country for Old Men | (2007) | All quiet on the Western Front. |
+| 14 | They Died with Their Boots On | (1941) | All quiet on the Western Front. |
+| 15 | Will Penny | (1967) | All quiet on the Western Front. |
+| 16 | The Treasure of the Sierra Madre | (1948) | All quiet on the Western Front. |
+| 17 | Butch Cassidy and the Sundance Kid | (1969) | I'm your huckleberry. |
+| 18 | The Ox-Bow Incident | (1942) | I'm your huckleberry. |
+| 19 | The Man Who Shot Liberty Valance | (1962) | I'm your huckleberry. |
+| 20 | Monte Walsh | (1970) | All quiet on the Western Front. |
+| 21 | Broken Arrow | (1950) | All quiet on the Western Front. |
+| 22 | My Darling Clementine | (1946) | All quiet on the Western Front. |
+| 23 | Lonely Are the Brave | (1962) | All quiet on the Western Front. |
+| 24 | Rancho Notorious | (1952) | All quiet on the Western Front. |
+| 25 | Fort Apache | (1948) | All quiet on the Western Front. |
+| 26 | She Wore a Yellow Ribbon | (1949) | All quiet on the Western Front. |
+| 27 | Rio Grande | (1950) | All quiet on the Western Front. |
+| 28 | The Gunfighter | (1950) | All quiet on the Western Front. |
+| 29 | Rio Bravo | (1959) | All quiet on the Western Front. |
+| 30 | Winchester '73 | (1950) | All quiet on the Western Front. |
+| 31 | Hondo | (1953) | All quiet on the Western Front. |
+| 32 | The Man from Laramie | (1955) | All quiet on the Western Front. |
+| 33 | Ulzana's Raid | (1972) | All quiet on the Western Front. |
+| 34 | Blood on the Moon | (1948) | All quiet on the Western Front. |
+| 35 | Major Dundee | (1965) | All quiet on the Western Front. |
+| 36 | The Magnificent Seven | (1960) | All quiet on the Western Front. |
+| 37 | The Naked Spur | (1953) | All quiet on the Western Front. |
+| 38 | A Fistful of Dollars | (1964) | I'm your huckleberry. |
+| 39 | For a Few Dollars More | (1965) | I'm your huckleberry. |
+| 40 | The Good, the Bad and the Ugly | (1966) | I'm your huckleberry. |
+| 41 | Bend of the River | (1952) | All quiet on the Western Front. |
+| 42 | Tumbleweeds | (1925) | All quiet on the Western Front. |
+| 43 | Hombre | (1967) | All quiet on the Western Front. |
+| 44 | Hud | (1963) | All quiet on the Western Front. |
+| 45 | Don't Fence Me In | (1945) | All quiet on the Western Front. |
+| 46 | Dodge City | (1939) | All quiet on the Western Front. |
+| 47 | The Big Sky | (1952) | All quiet on the Western Front. |
+| 48 | Ride the High Country | (1962) | All quiet on the Western Front. |
+| 49 | Open Range | (2003) | All quiet on the Western Front. |
+| 50 | The Westerner | (1940) | All quiet on the Western Front. |
+| 51 | The Last of the Mohicans | (1992) | I'm your huckleberry. |
+| 52 | The Shootist | (1976) | All quiet on the Western Front. |
+| 53 | Destry Rides Again | (1939) | All quiet on the Western Front. |
+| 54 | The Professionals | (1966) | All quiet on the Western Front. |
+| 55 | Tall in the Saddle | (1944) | All quiet on the Western Front. |
+| 56 | Ride Lonesome | (1959) | All quiet on the Western Front. |
+| 57 | The Plainsman | (1936) | All quiet on the Western Front. |
+| 58 | Cat Ballou | (1965) | All quiet on the Western Front. |
+| 59 | The Tall T | (1957) | All quiet on the Western Front. |
+| 60 | Jesse James | (1939) | All quiet on the Western Front. |
+| 61 | Little Big Man | (1970) | All quiet on the Western Front. |
+| 62 | Riders of the Purple Sage | (1996 TV Movie) | All quiet on the Western Front. |
+| 63 | The Alamo | (1960) | All quiet on the Western Front. |
+| 64 | The Far Country | (1954) | All quiet on the Western Front. |
+| 65 | 3 Godfathers | (1948) | All quiet on the Western Front. |
+| 66 | Appaloosa | (2008) | All quiet on the Western Front. |
+| 67 | Forty Guns | (1957) | All quiet on the Western Front. |
+| 68 | 3:10 to Yuma | (1957) | I'm your huckleberry. |
+| 69 | Gunfight at the O.K. Corral | (1957) | All quiet on the Western Front. |
+| 70 | Sergeant Rutledge | (1960) | All quiet on the Western Front. |
+| 71 | Little Big Horn | (1951) | All quiet on the Western Front. |
+| 72 | 7 Men from Now | (1956) | All quiet on the Western Front. |
+| 73 | Santa Fe Trail | (1940) | All quiet on the Western Front. |
+| 74 | The Paleface | (1948) | All quiet on the Western Front. |
+| 75 | Angel and the Badman | (1947) | All quiet on the Western Front. |
+| 76 | Duel in the Sun | (1946) | All quiet on the Western Front. |
+| 77 | How the West Was Won | (1962) | All quiet on the Western Front. |
+| 78 | The Big Trail | (1930) | All quiet on the Western Front. |
+| 79 | Paint Your Wagon | (1969) | All quiet on the Western Front. |
+| 80 | Tombstone | (1993) | I'm your huckleberry. |
+| 81 | Hearts of the West | (1975) | All quiet on the Western Front. |
+| 82 | Hang 'Em High | (1968) | I'm your huckleberry. |
+| 83 | Ten Wanted Men | (1955) | All quiet on the Western Front. |
+| 84 | The Virginian | (1929) | All quiet on the Western Front. |
+| 85 | Lone Star | (1996) | All quiet on the Western Front. |
+| 86 | Run of the Arrow | (1957) | All quiet on the Western Front. |
+| 87 | The Vanishing American | (1925) | All quiet on the Western Front. |
+| 88 | The Outlaw Josey Wales | (1976) | I'm your huckleberry. |
+| 89 | Jeremiah Johnson | (1972) | All quiet on the Western Front. |
+| 90 | Cowboy | (1958) | All quiet on the Western Front. |
+| 91 | Barbarosa | (1982) | All quiet on the Western Front. |
+| 92 | One-Eyed Jacks | (1961) | All quiet on the Western Front. |
+| 93 | Bad Company | (1972) | All quiet on the Western Front. |
+| 94 | Ramrod | (1947) | All quiet on the Western Front. |
+| 95 | The Long Riders | (1980) | All quiet on the Western Front. |
+| 96 | The Missing | (I) (2003) | All quiet on the Western Front. |
+| 97 | Four Faces West | (1948) | All quiet on the Western Front. |
+| 98 | The Ballad of Little Jo | (1993) | All quiet on the Western Front. |
+| 99 | The Covered Wagon | (1923) | All quiet on the Western Front. |
+| 100 | No Name on the Bullet | (1959) | All quiet on the Western Front. |
