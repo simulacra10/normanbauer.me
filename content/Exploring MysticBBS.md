@@ -1,6 +1,6 @@
 ---
 title: "[[Exploring MysticBBS]]"
-draft: true
+draft: false
 tags:
 ---
 #  Exploring [MysticBBS:](https://www.mysticbbs.com/) A Nostalgic Dive into BBS Software
