@@ -6,7 +6,7 @@ tags:
 ---
 My book list. This is a work in progress. 
 
-### Wish list
+### Getting to it list
 | Title | Author |
 | :--- | :--- |
 | [Evangelical Exodus: Evangelical Seminarians and Their Paths to Rome](https://www.amazon.com/gp/product/1621640426/ref=ox_sc_act_title_4?smid=ATVPDKIKX0DER&psc=1) | Douglas Beaumont |
@@ -22,7 +22,9 @@ My book list. This is a work in progress.
 | [A Canticle for Leibowitz](https://www.amazon.com/gp/product/0060892994/ref=ox_sc_saved_title_2?smid=ATVPDKIKX0DER&psc=1) | Walter M. Miller Jr |
 | [The Early Christians: In Their Own Words](https://www.amazon.com/gp/product/0874865964/ref=ox_sc_saved_title_1?smid=ATVPDKIKX0DER&psc=1) | The Pre Nicean Fathers |
 | [The Power of the Powerless](https://www.amazon.com/gp/product/178487504X/ref=ox_sc_saved_title_6?smid=A3TJVJMBQL014A&psc=1) | Vaclav Havel |
-| [I Don't Have Enough Faith to Be an Atheist](https://www.amazon.com/gp/product/1433580756/ref=ox_sc_saved_title_5?smid=ATVPDKIKX0DER&psc=1) |  Frank Turek &  Norman L. Geisler  |
+| [I Don't Have Enough Faith to Be an Atheist](https://www.amazon.com/gp/product/1433580756/ref=ox_sc_saved_title_5?smid=ATVPDKIKX0DER&psc=1) | Frank Turek &  Norman L. Geisler |
+| The Poor Folk | Fyodor Dostoevsky |
+| The Brothers Karamazov | Fyodor Dostoevsky |
 ### In queue
 
 | Title | Author |

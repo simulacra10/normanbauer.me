@@ -19,7 +19,15 @@ Fast forward to about two years ago. Someone close to me. Someone in my inner ci
 
 When you use that phrase with me, you actually get my attention. Why? Because I know there is such a thing. I can point you to them. The World Economic Forum, The United Nations, The Financial Action Task Force, and dozens of other International NGO's and Think Tanks, who wield power and influence. They are very real and very much a risk to freedom and Free Market Capitalism. They are the best friend of Crony Capitalism, Fascism, Socialism, and top down governance. They are the enemies of freedom. 
 
-The proponents of QFS say that this new financial system will replace the SWIFT system. 
+Below is a description of QFS and it's proposed purpose:
+
+>"QFS is Quantum Financial System an Advanced Financial System Launched to Eradicate the Cabal and Banksters Monopoly on Monetary System and for that Purpose, a system comprises of Artificial Intelligence and complex computer programs fully backed by banks is needed." - [@EnlightendNow7 on Twitter 6/2/2020](https://twitter.com/EnlightenedNow7/status/1267947574809542656)
+
+While I have zero reason to believe that QFS is anything more than a work of fiction, I think the best path to understanding why you should not put any money into this is to treat it as if it were _true_.
+
+#### Why banks?
+
+Central Banks, governments, multinational corporations, and their friendly working relationships should be eliminated. The single reason we so much consolidation of power is because of banking and Fractional Reserve Banking. 
 
 
 ### Resources:
@@ -29,3 +37,5 @@ _____
 *  [What Has Government Done To Our Money? - By Murray N. Rothbard](https://mises.org/library/what-has-government-done-our-money)
 * [Executive Order 13849 pdf ](https://www.state.gov/wp-content/uploads/2019/05/Executive-Order-13849-.pdf)
 * [Quantum Computing and The Financial System - IMF White Paper](file:///home/norm/Downloads/wpiea2021071-print-pdf-1.pdf)
+* [FATF (Financial Action Task Force) Recommendations](https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html)
+* [Our Enemy The Fed](https://ourenemythefed.com/) 
