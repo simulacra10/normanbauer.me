@@ -12,6 +12,4 @@ title: Welcome to normanbauer.me
 * [[privacy]] - Information about privacy, 1st & 4th Amendment advocacy
 * [[media]] - some media appearance by me.
 
- ### Projects
-Some projects I am working on
-- [[King James Bible]]
+ 
