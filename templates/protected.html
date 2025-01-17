@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block title %}Protected{% endblock %}
+{% block content %}
+<h2>Protected Route</h2>
+<p>Welcome, user with ID: {{ user_id }}.</p>
+{% if access_token %}
+<p>Your JWT token: {{ access_token }}</p>
+{% endif %}
+{% endblock %}
