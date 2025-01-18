@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %}Flask App{% endblock %}</title>
+    <title>{% block title %} normanbauer.me {% endblock %}</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
     <header>
-        <h1>Flask Blog App</h1>
+        <h1>normanbauer.me</h1>
         <nav>
             <a href="{{ url_for('register_view') }}">Register</a>
             <a href="{{ url_for('login_view') }}">Login</a>
