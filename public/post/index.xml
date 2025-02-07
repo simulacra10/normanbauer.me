@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Norman Bauer dot meee</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Norman Bauer dot meee</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 07 Feb 2025 06:40:23 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Day</title>
+      <link>http://localhost:1313/post/new-day/</link>
+      <pubDate>Fri, 07 Feb 2025 06:40:23 -0500</pubDate>
+      <guid>http://localhost:1313/post/new-day/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
