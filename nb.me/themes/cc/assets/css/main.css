@@ -9,7 +9,6 @@ body {
   grid-template-columns: 300px 1fr;
   grid-template-rows: auto 1fr auto;
   grid-template-areas: 
-  "header header"
   "navbar navbar"
   "sidbar main"
   "sidebar footer";}
@@ -19,10 +18,16 @@ body {
     position: sticky;
     grid-area: navbar;
     padding: 1em;
+    background-color: blueviolet;
   }
 
   aside {
+    height: calc(100vh - 55px);
+    top: 55px;
+    position: sticky;
     grid-area: sidebar;
+    align-self: start;
+    background-color: aqua;
   }
 
   main {
@@ -30,5 +35,24 @@ body {
   }
   footer {
     grid-area: footer;
-    padding: 2em;
+    padding: 1em;
+    background-color: brown;
+  }
+
+  @media(max-width: 800px) {
+    
+    body{
+      grid-template-columns: 1fr;
+    }
+
+    aside {
+      position: fixed;
+      width: 300px;
+      display: none;
+    }
+
+    .show {
+      display: block;
+    }
+    
   }
