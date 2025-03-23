@@ -1,0 +1,13 @@
+{
+    "name": "hugo-site",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "hugo-bin -D"
+    },
+    "engines": {
+        "node": "20.x"
+    },
+    "devDependencies": {
+        "hugo-bin": "^0.142.0"
+    }
+}
