@@ -7,7 +7,7 @@
     "engines": {
         "node": "20.x"
     },
-    "devDependencies": {
+    "dependencies": {
         "hugo-bin": "^0.142.0"
     }
 }
