@@ -4,6 +4,9 @@
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <title>Post 2 | Captain Contrary</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Kanit&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="/css/main.css">
 
@@ -13,14 +16,32 @@
 
 </head>
 <body>
-  
-  North
-  <nav> <button onclick="toggleSidebar()">Button</button>
-    navbar
-  </nav>
-  South
+  <header>
+    <h1>Captain Contrary</h1>
+
+<button id="menu-toggle" onclick="toggleSidebar()">&#9776;</button>
+
+  </header>
   <aside id="sidebar">
-    aside
+    <img id="logo" src="/logo.png" />
+    
+  <nav>
+    <ul>
+    <li>
+      <a href="/">Home</a>
+    </li>
+    <li>
+      <a aria-current="true" class="ancestor" href="/posts/">Posts</a>
+    </li>
+    <li>
+      <a href="/tags/">Tags</a>
+    </li>
+    <li>
+      <a href="/tags/">Test</a>
+    </li>
+    </ul>
+  </nav>
+
   </aside>
   <main>
     
