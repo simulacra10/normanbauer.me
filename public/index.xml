@@ -2,59 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Captain Contrary</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Captain Contrary</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Aug 2024 18:02:23 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Mar 2025 20:46:05 -0400</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Under Construction</title>
+      <link>https://example.org/posts/under-construction/</link>
+      <pubDate>Sun, 30 Mar 2025 20:46:05 -0400</pubDate>
+      <guid>https://example.org/posts/under-construction/</guid>
+      <description>&lt;p&gt;Hey there, thanks for dropping in!&lt;/p&gt;&#xA;&lt;p&gt;I know the site looks kind of ugly at the momemnt, but I am in the process of redesigning it from ground up. I use &lt;a href=&#34;https://gohugo.io/&#34;&gt;Go Hugo&lt;/a&gt; to generate the site and unytill recently I was using the wonderful Hyde theme as the basis for the site. I guess I wanted to get to know Go Hugo more intimately so I decided to create my own theme from scratch.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Signalgate</title>
+      <link>https://example.org/posts/signalgate/</link>
+      <pubDate>Sun, 30 Mar 2025 20:39:54 -0400</pubDate>
+      <guid>https://example.org/posts/signalgate/</guid>
+      <description>&lt;h2 id=&#34;in-this-episode&#34;&gt;IN THIS EPISODE:&lt;/h2&gt;&#xA;&lt;p&gt;I go into why Signalgate is important and why the Administration should not brush this under the rug.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/GWF5i2lkcLs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
+    </item>
     <item>
       <title>Episode 7 - Baptism Is It Symbolic or Is It A Requirement</title>
-      <link>http://localhost:1313/posts/ep7/</link>
+      <link>https://example.org/posts/ep7/</link>
       <pubDate>Mon, 05 Aug 2024 18:02:23 -0400</pubDate>
-      <guid>http://localhost:1313/posts/ep7/</guid>
+      <guid>https://example.org/posts/ep7/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/dVDrVGYNwzY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;h2 id=&#34;the-sinners-prayer&#34;&gt;The Sinners Prayer&lt;/h2&gt;&#xA;&lt;p&gt;Dear Lord Jesus, I know that I am a sinner, and I ask for Your forgiveness. I believe You died for my sins and rose from the dead. I turn from my sins and invite You to come into my heart and life. I want to trust and follow You as my Lord and Savior.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Episode 6 - Assassination Attempt on Trump, Kamala&#39;s Ascension to Power</title>
-      <link>http://localhost:1313/posts/ep6/</link>
+      <link>https://example.org/posts/ep6/</link>
       <pubDate>Wed, 24 Jul 2024 04:47:39 -0400</pubDate>
-      <guid>http://localhost:1313/posts/ep6/</guid>
+      <guid>https://example.org/posts/ep6/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/LIXaFrXnnNA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;In this video, I share my thoughts and reactions to the recent assassination attempt on former President Donald Trump, discuss Kamala Harris as the presumptive nominee for the Democratic National Committee (DNC), and talk about RFK Jr.&amp;rsquo;s influence on the current political scene. Join me as I delve into the implications of these events and what they mean for the political landscape.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Episode 5 - How the Mises Caucus Got Julian Assange Released</title>
-      <link>http://localhost:1313/posts/ep5/</link>
+      <link>https://example.org/posts/ep5/</link>
       <pubDate>Wed, 26 Jun 2024 20:01:14 -0400</pubDate>
-      <guid>http://localhost:1313/posts/ep5/</guid>
+      <guid>https://example.org/posts/ep5/</guid>
       <description>&lt;p&gt;Today I speak about the release of Julian Assange and the role that the &lt;a href=&#34;https://lpmisescaucus.com/&#34;&gt;Mises Caucus&lt;/a&gt;             played in freeing Assange (psst&amp;hellip; it wasn&amp;rsquo;t small or nominal).&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/PkDNlpiZ2PY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>Episod 4 - The 17th Amendment</title>
-      <link>http://localhost:1313/posts/ep4/</link>
+      <link>https://example.org/posts/ep4/</link>
       <pubDate>Sun, 23 Jun 2024 19:37:01 -0400</pubDate>
-      <guid>http://localhost:1313/posts/ep4/</guid>
+      <guid>https://example.org/posts/ep4/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/aJfAXoj0gTE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;On this episode we talk about the passing of Al Kresta from Kresta in The Afternoon and The 17th Amendment.&lt;/p&gt;&#xA;&lt;p&gt;** Seventeenth Amendment&lt;/p&gt;&#xA;&lt;p&gt;The Senate of the United States shall be composed of two Senators from each State, elected by the people thereof, for six years; and&#xA;each Senator shall have one vote. The electors in each State shall have the qualifications requisite for electors of the most numerous branch of the State legislatures.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Episode 3 - Trump to end the Income Tax</title>
-      <link>http://localhost:1313/posts/episode3/</link>
+      <link>https://example.org/posts/episode3/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/episode3/</guid>
+      <guid>https://example.org/posts/episode3/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/jhfRFakCa1I?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;Former president Donald Trump has expressed interest in ending the Income Tax. The Captain responds to this breaking news.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.thegatewaypundit.com/2024/06/trump-drops-bombshell-proposal-allegedly-suggests-eliminating-income/&#34;&gt;https://www.thegatewaypundit.com/2024/06/trump-drops-bombshell-proposal-allegedly-suggests-eliminating-income/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mises.org/library/book/income-tax-root-all-evil&#34;&gt;Income Tax: The Root of All Evil&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Episode 2 - The 1929 Permanent Aportionment Act</title>
-      <link>http://localhost:1313/posts/ep2/</link>
+      <link>https://example.org/posts/ep2/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ep2/</guid>
+      <guid>https://example.org/posts/ep2/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/3hm4-7CZ018?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;On Episode 2 I discuss one of the fundamental changes to the government that altered the checks and balances that we are told about in school.&lt;/p&gt;&#xA;&lt;p&gt;The 1929 Permanent Apportionment Act, formally known as the Reapportionment Act of 1929, is a pivotal piece of legislation in the history of the United States Congress. Here are the key points:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Episode 1</title>
-      <link>http://localhost:1313/posts/ep1/</link>
+      <link>https://example.org/posts/ep1/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ep1/</guid>
+      <guid>https://example.org/posts/ep1/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/TYWsq7PAd_w?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;On this first episode I talk about Trump and some people wanting to boogaloo and why I think that is the wrong response. I also read a portion of Gary North&amp;rsquo;s article about the correct way to engage the State.&lt;/p&gt;&#xA;&lt;p&gt;Pardon the terrible audio and speech. I am not used to doing this yet.&lt;/p&gt;</description>
     </item>
   </channel>
