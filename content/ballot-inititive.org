@@ -1,0 +1,26 @@
+* Ballot Initiative for the Reorganization of the Maryland General Assembly
+
+** Title: Maryland Legislative District Reorganization Act of [Year]
+
+*** Purpose:
+To reorganize the structure of the Maryland General Assembly by creating legislative districts based on existing zip codes, with each district represented by one Delegate, thereby promoting localized representation and ensuring each community has a direct voice in the state legislature.
+
+** Proposed Changes:
+
+*** Legislative Districts by Zip Code:
+    Each zip code within the state of Maryland shall be designated as a distinct legislative district. Every district shall elect one Delegate to represent that district in the Maryland House of Delegates.
+
+*** Number of Delegates:
+    The total number of Delegates in the Maryland House of Delegates shall be equal to the number of zip codes within the state. This shall replace the current system of legislative districts based on population size.
+
+*** Equal Representation:
+    Each zip code district shall have equal representation, with one Delegate elected by the residents of that zip code to serve a term as defined by existing state law.
+
+*** Transition Plan:
+    The State Board of Elections shall oversee a transition process to implement the new districting system, including the establishment of new district maps based on zip codes, by the next regularly scheduled state election.
+
+***  Adjustments for Population Changes:
+    In the event of future changes to zip code boundaries, the General Assembly shall establish procedures to ensure continuous and equitable representation for all residents.
+
+*** Implementation Timeline:
+    This initiative, if approved by the voters, shall take effect at the beginning of the next legislative term following certification of the election results.
