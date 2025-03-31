@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:40535/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-30T20:46:05-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:40535/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-03-30T20:46:05-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:40535/posts/under-construction/</loc>
+    <loc>http://localhost:1313/posts/under-construction/</loc>
     <lastmod>2025-03-30T20:46:05-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:40535/posts/signalgate/</loc>
+    <loc>http://localhost:1313/posts/signalgate/</loc>
     <lastmod>2025-03-30T20:39:54-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:40535/about.html</loc>
+    <loc>http://localhost:1313/about.html</loc>
     <lastmod>2025-03-23T10:30:39-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:40535/posts/ep7/</loc>
+    <loc>http://localhost:1313/posts/ep7/</loc>
     <lastmod>2024-08-05T18:02:23-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:40535/posts/ep6/</loc>
+    <loc>http://localhost:1313/posts/ep6/</loc>
     <lastmod>2024-07-24T04:47:39-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:40535/posts/ep5/</loc>
+    <loc>http://localhost:1313/posts/ep5/</loc>
     <lastmod>2024-06-26T20:01:14-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:40535/posts/ep4/</loc>
+    <loc>http://localhost:1313/posts/ep4/</loc>
     <lastmod>2024-06-23T19:37:01-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:40535/posts/episode3/</loc>
+    <loc>http://localhost:1313/posts/episode3/</loc>
     <lastmod>2024-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40535/posts/ep2/</loc>
+    <loc>http://localhost:1313/posts/ep2/</loc>
     <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40535/posts/ep1/</loc>
+    <loc>http://localhost:1313/posts/ep1/</loc>
     <lastmod>2024-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40535/ballot-inititive/</loc>
+    <loc>http://localhost:1313/ballot-inititive/</loc>
   </url><url>
-    <loc>http://localhost:40535/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:40535/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
